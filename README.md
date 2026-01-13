@@ -44,4 +44,4 @@ This project demonstrates the end-to-end data science workflow, from data collec
 
 ## Author
 **Anke de Frey**  
-IBM Data Science Professional Certificate (2024)**
+IBM Data Science Professional Certificate (2024)
